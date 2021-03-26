@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://thumbs.gfycat.com/ExcitableBleakElephant-small.gif?raw=true" width="40%">
+<img alt="." src="https://thumbs.gfycat.com/ExcitableBleakElephant-small.gif?raw=true" width="40%">
 
 <p>
   <h4> 📈 | Github stats </h4><br />
