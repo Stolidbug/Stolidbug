@@ -36,5 +36,4 @@
  <h5>🛠️Je suis maintenant diplômée en développement d'application Php/Symfony avec OpenClassroom.</h5>
 <h5>💻J'ai une grosse appétence pour le Back, je développe pour l'instant en Php. Mais je fais aussi du Front un peud :).</h5>
 <h5> 🌱 Je suis en train de me perfectionner en Php Sylius </h5>
-<h5> 🔭 Je cherche actuellement un poste de développeur junior Php/Symfony</h5>
 </p>
