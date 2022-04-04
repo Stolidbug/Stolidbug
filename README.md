@@ -33,7 +33,7 @@
   <h4>😎 Quelques mots sur moi :</h4><br/>
   <h5>🦉Je m'appelle Christophe alias Stolidbug, j'ai 35 ans et je suis passionné par l'informatique, le design et le gaming.</h5>
  <h5>📍Je vis actuellement <a href="https://www.google.com/maps?q=avignon"> Avignon</a>, mais je suis un oiseau migrateur.</h5>
- <h5>🛠️Je Travail pour la societe Akawaka basee sur<a href="https://www.google.com/maps?q=lyon">Lyon</a></h5>
+ <h5>🛠️Je Travail pour la societe Akawaka basee sur<a href="https://www.google.com/maps?q=lyon"> Lyon</a></h5>
 <h5>💻J'ai une grosse appétence pour le Back, je développe pour l'instant en Php. Mais je fais aussi du Front un peud :).</h5>
 <h5> 🌱 Je suis en train de me perfectionner en Php Sylius </h5>
 </p>
