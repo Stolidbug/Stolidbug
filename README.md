@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
-
+<div align="center"><img width=190  src="https://www.akawaka.fr/build/front/images/logo_akawaka_noir.svg"/></div>
 <br>
 <p align="center">
   I'm Christophe Ligneres , developer in Php/Symfony .
