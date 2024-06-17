@@ -13,7 +13,9 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-    <img src="https://img.shields.io/badge/-Phpstorm?style=flat-square&logo=phpstorm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Composer?style=flat-square&logo=composer&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Linux?style=flat-square&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Phpstorm?style=flat-square&logo=phpstorm&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Postgre-F29111?style=flat-square&logo=Postgre&logoColor=white"/>
