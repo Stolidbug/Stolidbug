@@ -1,13 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 <div align="center"><img width=190  src="https://www.akawaka.fr/build/front/images/logo_akawaka_noir.svg"/></div>
 <br>
-<p align="center">
+<div align="center">
   I'm Christophe Ligneres , developer in Php/Symfony .
   <br>
   💻 I like to write code and learn everything about it.
-  <br>
-  📚 I am on Monofony a revolutionary mini framework.
-</p>
+</div>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -26,19 +24,6 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
 </p>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=stolidbug&theme=transparent&border=61dafb&hide_border=true" alt="stolidbug" />
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=stolidbug&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
 <hr>
 
 <h2 align="center">📪 | Contact me </h2>
