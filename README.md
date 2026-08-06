@@ -25,7 +25,7 @@ Backend developer specialized in **PHP / Symfony**, focused on clean, maintainab
 | CMS / E-commerce | Sulu, Sylius |
 | Frontend | Twig, Twig Components, vanilla JS when needed |
 | Infrastructure | Docker, Git, CI/CD, Traefik |
-| Quality | PHPStan, PHP-CS-Fixer, PHPUnit |
+| Quality | PHPStan, PHP-CS-Fixer, PHPUnit, Behat |
 
 ## How I work
 
