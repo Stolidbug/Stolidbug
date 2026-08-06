@@ -16,6 +16,7 @@ Backend developer specialized in **PHP / Symfony**, focused on clean, maintainab
 - Integration and industrialization of CMS and e-commerce projects (Sulu, Sylius)
 - DDD and hexagonal architecture, when it brings real value
 - Refactoring and modernization of legacy codebases
+- AI-assisted development: agent workflows integrated into the daily toolchain, with the same quality standards
 
 ## Stack
 
@@ -26,6 +27,7 @@ Backend developer specialized in **PHP / Symfony**, focused on clean, maintainab
 | Frontend | Twig, Twig Components, vanilla JS when needed |
 | Infrastructure | Docker, Git, CI/CD, Traefik |
 | Quality | PHPStan, PHP-CS-Fixer, PHPUnit, Behat |
+| AI tooling | Claude Code, MCP servers, custom agents and skills |
 
 ## How I work
 
